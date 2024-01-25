@@ -21,15 +21,23 @@ The Exam main topics covered are:
 More Links based on the exam topics
 ## Hands-on study material at Microsoft Learn
 
-- [AZ-204: Create Azure App Service web apps](https://docs.microsoft.com/en-us/learn/paths/create-azure-app-service-web-apps/)
-- [AZ-204: Implement Azure Functions](https://docs.microsoft.com/en-us/learn/paths/implement-azure-functions/)
+- [AZ-204: Implement Azure App Service web apps](https://docs.microsoft.com/en-us/learn/paths/create-azure-app-service-web-apps/)
+- [AZ-204: Create Azure Functions](https://docs.microsoft.com/en-us/learn/paths/implement-azure-functions/)
 - [AZ-204: Develop solutions that use Blob storage](https://docs.microsoft.com/en-us/learn/paths/develop-solutions-that-use-blob-storage/)
 - [AZ-204: Develop solutions that use Azure Cosmos DB](https://docs.microsoft.com/en-us/learn/paths/az-204-develop-solutions-that-use-azure-cosmos-db/)
-- [AZ-204: Implement infrastructure as a service solutions](https://docs.microsoft.com/en-us/learn/paths/az-204-implement-iaas-solutions/)
+- [AZ-204: Implement containerized solutions](https://docs.microsoft.com/en-us/learn/paths/az-204-implement-iaas-solutions/)
 - [AZ-204: Implement user authentication and authorization](https://docs.microsoft.com/en-us/learn/paths/az-204-implement-authentication-authorization/)
 - [AZ-204: Implement secure cloud solutions](https://docs.microsoft.com/en-us/learn/paths/az-204-implement-secure-cloud-solutions/)
 - [AZ-204: Implement API Management](https://docs.microsoft.com/en-us/learn/paths/az-204-implement-api-management/)
 - [AZ-204: Develop event-based solutions](https://docs.microsoft.com/en-us/learn/paths/az-204-develop-event-based-solutions/)
 - [AZ-204: Develop message-based solutions](https://docs.microsoft.com/en-us/learn/paths/az-204-develop-message-based-solutions/)
-- [AZ-204: Instrument solutions to support monitoring and logging](https://docs.microsoft.com/en-us/learn/paths/az-204-instrument-solutions-support-monitoring-logging/)
-- [AZ-204: Integrate caching and content delivery within solutions](https://docs.microsoft.com/en-us/learn/paths/az-204-integrate-caching-content-delivery-within-solutions/)
+- [AZ-204: Troubleshoot solutions by using Application Insights](https://docs.microsoft.com/en-us/learn/paths/az-204-instrument-solutions-support-monitoring-logging/)
+- [AZ-204: Implement caching for solutions](https://docs.microsoft.com/en-us/learn/paths/az-204-integrate-caching-content-delivery-within-solutions/)
+
+## More practice exmas
+- [AZ-204 practice ](https://www.examgo.com/exams/microsoft/az-204/)
+- more practice questions [AZ-204 exam](https://www.examcatalog.com/exam/microsoft/az-204/)
+
+
+## From here on
+The purpose of this project was to maintain a central location for all the resources I required to master Azure. Please let me know if any of the resources are not working properly, or feel free to add or recommend additional potentially helpful sites.
